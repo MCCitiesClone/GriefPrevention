@@ -43,7 +43,3 @@ GriefPrevention Legacy's development exists in the `legacy/v16` branch; be sure 
 ## Version 17 and above
 
 Newer major versions of GriefPrevention are developed on the `master` branch. These new versions contain **breaking changes.** Please **do not** use these versions of GriefPrevention on production servers!
-
----
-
-[![Weird flex but ok](https://bstats.org/signatures/bukkit/GriefPrevention-legacy.svg)](https://bstats.org/plugin/bukkit/GriefPrevention-legacy)
